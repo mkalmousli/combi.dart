@@ -1,6 +1,6 @@
 name: combi
 description: A simple parser combinator library for Dart.
-version: 1.0.0
+version: 0.0.1
 repository: https://github.com/mkalmousli/combi.dart
 
 environment:
