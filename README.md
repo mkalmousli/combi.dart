@@ -1,4 +1,6 @@
-![pub.dev](https://img.shields.io/pub/v/combi.svg)
+<a href="https://pub.dev/packages/combi">
+  <img src="https://img.shields.io/pub/v/combi.svg" />
+</a>
 
 <img src="logo.svg" width="300px" />
 
