@@ -1,3 +1,23 @@
-int calculate() {
-  return 6 * 7;
-}
+export 'src/parser.dart' show Parser, newParser;
+export 'src/result.dart' show Result, Success, Failure;
+export 'src/lazy.dart' show Lazy, lazy;
+export 'src/list.dart' show ListParser, list;
+export 'src/alt.dart' show Alt, alt;
+export 'src/seperated.dart' show Separated;
+export 'src/opt.dart' show Opt, opt;
+export 'src/alpha.dart' show alpha;
+export 'src/digit.dart' show digit;
+export 'src/char.dart' show char;
+export 'src/non_empty.dart' show NonEmpty;
+export 'src/tag.dart' show tag;
+export 'src/any_char.dart' show anyChar;
+export 'src/space.dart' show space;
+export 'src/newline.dart' show newLine;
+export 'src/tab.dart' show tab;
+export 'src/eof.dart' show Eof, eof;
+export 'src/middle.dart' show Middle;
+export 'src/skip_first.dart' show SkipFirst;
+export 'src/skip_last.dart' show SkipLast;
+export 'src/take_while.dart' show takeWhile;
+
+export 'generated/record_extensions.dart';
